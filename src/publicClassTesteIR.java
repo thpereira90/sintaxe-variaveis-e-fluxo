@@ -7,7 +7,7 @@ public class publicClassTesteIR {
 		// De 2800.01 até 3751.0 o IR é de 15% e pode deduzir R$ 350
 		// De 3751.01 até 4664.00 o IR é de 22.5% e pode deduzir R$ 636
 
-		double salario = 3760.0;
+		double salario = 2800.0;
 
 		if (salario >= 1900.0 && salario <= 2800.0) {
 			System.out.println("A sua aliquota é de 7,5%");
